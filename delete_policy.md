@@ -35,3 +35,4 @@ If you wish to delete your data associated with AnimLog and Facebook Login, plea
 ---
 
 If you require further support, please contact: **[your@email.com](mailto:your@email.com)**
+ 
